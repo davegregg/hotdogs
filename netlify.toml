@@ -1,0 +1,10 @@
+[build]
+  publish = ""
+  command = "echo 'Building...'"
+  functions = "functions"
+
+# [[redirects]]
+#   from = "/api/tweets"
+#   to = ".netlify/functions/tweets"
+#   status = 200
+#   force = true
