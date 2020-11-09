@@ -1,0 +1,17 @@
+{
+  "name": "road-dogs-indy",
+  "dependencies": {
+    "cross-fetch": "^3.0.6",
+    "flat-zip": "^1.0.1",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Michael Gregg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davegregg/hotdogs/issues"
+  }
+}
